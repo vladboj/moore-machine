@@ -13,3 +13,7 @@
 ### Input-Output Example ###
 
 ![image](https://user-images.githubusercontent.com/67463644/160692574-cf53f149-e621-4771-8f1d-af08c6f9f90f.png)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
